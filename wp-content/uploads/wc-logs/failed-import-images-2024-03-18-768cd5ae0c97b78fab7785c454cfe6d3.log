@@ -1,0 +1,8 @@
+2024-03-18T16:30:19+00:00 INFO {"url":"Smartphones.svg","data":{"errors":{"http_request_failed":["cURL error 56: Recv failure: Connection was reset"]},"error_data":[]}}
+2024-03-18T16:30:30+00:00 INFO {"url":"Smartphones.svg","data":{"errors":{"http_request_failed":["No se ha facilitado una URL v\u00e1lida."]},"error_data":[]}}
+2024-03-18T16:31:19+00:00 INFO {"url":"cameron-williamson-pic.png","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5004 milliseconds with 0 bytes received"]},"error_data":[]}}
+2024-03-18T16:31:47+00:00 INFO {"url":"img-1-1-opt.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5008 milliseconds with 50417 out of 97448 bytes received"]},"error_data":[]}}
+2024-03-18T16:34:57+00:00 INFO {"url":"aoc-q24p2q-1.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Connection timed out after 5016 milliseconds"]},"error_data":[]}}
+2024-03-18T17:50:55+00:00 INFO {"url":"wd-blog-5.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5006 milliseconds with 32619 out of 293754 bytes received"]},"error_data":[]}}
+2024-03-18T18:12:17+00:00 INFO {"url":"black-friday-product-1.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5001 milliseconds with 35358 out of 77347 bytes received"]},"error_data":[]}}
+2024-03-18T18:21:03+00:00 INFO {"url":"digital-portfolio-1.jpg","data":{"errors":{"http_request_failed":["cURL error 28: Operation timed out after 5013 milliseconds with 112021 out of 114668 bytes received"]},"error_data":[]}}
